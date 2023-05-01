@@ -59,4 +59,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: MrNavasardyan/infra_actions:latest
+          tags: mrnavasardyan/infra_actions:latest
